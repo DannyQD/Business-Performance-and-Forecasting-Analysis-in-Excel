@@ -68,4 +68,6 @@ The dashboard provides a clear and concise overview of business performance, inc
 - Revenue trends over time
 - Forecasted performance
 
-It is designed to replicate an executive-level reporting view commonly used in business environments.
+Data Source
+
+This dataset is simulated for educational and portfolio purposes. It is designed to reflect realistic business performance data, including trends and variability.
